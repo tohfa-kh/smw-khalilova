@@ -1,10 +1,18 @@
-(declare-project
-  :name "smw"
-  :author "Josef Pospíšil <josef.pospisil@laststar.eu>"
-  :description "See my work"
-  :license "MIT"
-  :repo "https://git.sr.ht/~pepe/smw"
-  :url "https://git.sr.ht/~pepe/smw"
-  :dependencies ["https://git.sr.ht/~pepe/gp"])
+# Backend CULS 2024
 
+---
+author: JRT
+date: 2024-03-01
+title: GIRLS GIRLS GIRLS 
+---
 
+## Future Backend Development
+
+---
+
+## Study block 
+
+* Hello CZU!
+* We don't have a song
+
+---
